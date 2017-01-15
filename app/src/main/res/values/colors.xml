@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="equize_text_gray">#ffb7b7b7</color>
+    <color name="equize_sp_item_normal">#00000000</color>
+    <color name="equize_sp_item_pressed">#ff303030</color>
+</resources>
