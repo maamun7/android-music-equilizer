@@ -19,6 +19,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import java.util.ArrayList;
 
+
 import me.maamun.finalequilizer.RoundKnobButton.RoundKnobButtonListener;
 
 public class MainActivity extends Activity implements OnSeekBarChangeListener {
